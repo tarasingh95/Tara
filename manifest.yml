@@ -1,0 +1,8 @@
+disk_quota: 1024M
+host: taranode2Ex02
+name: taranode2Ex02
+command: node weather-request.js
+path: .
+domain: mybluemix.net
+instances: 1
+memory: 128M
